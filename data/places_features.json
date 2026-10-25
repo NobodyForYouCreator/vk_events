@@ -1,0 +1,3360 @@
+[
+ {
+  "place_id":"p000",
+  "name":"Московский Кремль",
+  "category":"достопримечательность",
+  "district":"Кремль и Китай-город",
+  "experience":[
+   "культура и искусство",
+   "история",
+   "архитектура",
+   "природа и прогулки",
+   "развлечения и шоу",
+   "религия"
+  ],
+  "atmosphere":[
+   "романтичная",
+   "шумная",
+   "историческая"
+  ],
+  "context":[
+   "свидание",
+   "туристам"
+  ],
+  "budget":"бесплатно",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"высокая",
+  "in_guidebook":true,
+  "indoor_outdoor":"смешанный",
+  "visit_duration":"до 1 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p001",
+  "name":"Собор Василия Блаженного",
+  "category":"храм",
+  "district":"Кремль и Китай-город",
+  "experience":[
+   "еда",
+   "культура и искусство",
+   "история",
+   "архитектура",
+   "религия"
+  ],
+  "atmosphere":[
+   "шумная",
+   "торжественная",
+   "историческая",
+   "современная"
+  ],
+  "context":[
+   "с детьми",
+   "туристам"
+  ],
+  "budget":"средний",
+  "budget_source":"цена",
+  "time_of_day":[
+   "день"
+  ],
+  "time_source":"часы работы",
+  "popularity":"высокая",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"до 1 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p002",
+  "name":"Храм Христа Спасителя",
+  "category":"храм",
+  "district":"Арбат",
+  "experience":[
+   "еда",
+   "история",
+   "архитектура",
+   "природа и прогулки",
+   "религия"
+  ],
+  "atmosphere":[
+   "романтичная",
+   "торжественная",
+   "историческая",
+   "современная"
+  ],
+  "context":[
+   "свидание",
+   "туристам"
+  ],
+  "budget":"низкий",
+  "budget_source":"цена",
+  "time_of_day":[
+   "утро",
+   "день"
+  ],
+  "time_source":"категория",
+  "popularity":"высокая",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"до 1 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p003",
+  "name":"Большой театр",
+  "category":"театр",
+  "district":"Кремль и Китай-город",
+  "experience":[
+   "культура и искусство",
+   "история",
+   "архитектура",
+   "развлечения и шоу"
+  ],
+  "atmosphere":[
+   "торжественная",
+   "историческая",
+   "современная"
+  ],
+  "context":[
+   "свидание",
+   "туристам"
+  ],
+  "budget":"высокий",
+  "budget_source":"вручную",
+  "time_of_day":[
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"высокая",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p004",
+  "name":"Мавзолей В. И. Ленина",
+  "category":"достопримечательность",
+  "district":"Кремль и Китай-город",
+  "experience":[
+   "история",
+   "архитектура",
+   "религия"
+  ],
+  "atmosphere":[
+   "шумная",
+   "торжественная",
+   "историческая"
+  ],
+  "context":[
+   "туристам"
+  ],
+  "budget":"бесплатно",
+  "budget_source":"цена",
+  "time_of_day":[
+   "утро"
+  ],
+  "time_source":"часы работы",
+  "popularity":"высокая",
+  "in_guidebook":true,
+  "indoor_outdoor":"на открытом воздухе",
+  "visit_duration":"до 1 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p005",
+  "name":"Останкинская телевизионная башня",
+  "category":"достопримечательность",
+  "district":"Останкино",
+  "experience":[
+   "архитектура"
+  ],
+  "atmosphere":[
+   "шумная",
+   "спокойная"
+  ],
+  "context":[
+   "туристам"
+  ],
+  "budget":"средний",
+  "budget_source":"цена",
+  "time_of_day":[
+   "утро",
+   "день",
+   "вечер"
+  ],
+  "time_source":"часы работы",
+  "popularity":"высокая",
+  "in_guidebook":true,
+  "indoor_outdoor":"смешанный",
+  "visit_duration":"до 1 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p006",
+  "name":"Третьяковская галерея",
+  "category":"музей",
+  "district":"Замоскворечье",
+  "experience":[
+   "культура и искусство",
+   "история",
+   "религия"
+  ],
+  "atmosphere":[
+   "историческая",
+   "современная"
+  ],
+  "context":[
+   "в одиночку",
+   "туристам"
+  ],
+  "budget":"средний",
+  "budget_source":"цена",
+  "time_of_day":[
+   "утро",
+   "день",
+   "вечер"
+  ],
+  "time_source":"часы работы",
+  "popularity":"высокая",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"полдня",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p007",
+  "name":"Красная площадь",
+  "category":"достопримечательность",
+  "district":"Кремль и Китай-город",
+  "experience":[
+   "история",
+   "архитектура",
+   "природа и прогулки",
+   "религия"
+  ],
+  "atmosphere":[
+   "историческая"
+  ],
+  "context":[
+   "свидание",
+   "туристам"
+  ],
+  "budget":"бесплатно",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"высокая",
+  "in_guidebook":false,
+  "indoor_outdoor":"на открытом воздухе",
+  "visit_duration":"до 1 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":true
+ },
+ {
+  "place_id":"p008",
+  "name":"Музей изобразительных искусств им. Пушкина",
+  "category":"музей",
+  "district":"Пресня",
+  "experience":[
+   "культура и искусство",
+   "история",
+   "архитектура",
+   "религия"
+  ],
+  "atmosphere":[
+   "историческая",
+   "современная"
+  ],
+  "context":[
+   "в одиночку",
+   "туристам"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день"
+  ],
+  "time_source":"категория",
+  "popularity":"высокая",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"полдня",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p009",
+  "name":"Собор Успения Пресвятой Богородицы",
+  "category":"храм",
+  "district":"Кремль и Китай-город",
+  "experience":[
+   "история",
+   "архитектура",
+   "религия"
+  ],
+  "atmosphere":[
+   "торжественная",
+   "историческая",
+   "современная"
+  ],
+  "context":[
+   "туристам"
+  ],
+  "budget":"бесплатно",
+  "budget_source":"категория",
+  "time_of_day":[
+   "утро",
+   "день"
+  ],
+  "time_source":"категория",
+  "popularity":"высокая",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"до 1 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p010",
+  "name":"Выставка достижений народного хозяйства",
+  "category":"парк",
+  "district":"Останкино",
+  "experience":[
+   "культура и искусство",
+   "история",
+   "архитектура",
+   "природа и прогулки"
+  ],
+  "atmosphere":[
+   "историческая"
+  ],
+  "context":[
+   "туристам"
+  ],
+  "budget":"бесплатно",
+  "budget_source":"категория",
+  "time_of_day":[
+   "утро",
+   "день",
+   "вечер"
+  ],
+  "time_source":"часы работы",
+  "popularity":"высокая",
+  "in_guidebook":true,
+  "indoor_outdoor":"на открытом воздухе",
+  "visit_duration":"полдня",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p011",
+  "name":"Киноконцерн «Мосфильм»",
+  "category":"достопримечательность",
+  "district":"Поклонная гора и Дорогомилово",
+  "experience":[
+   "культура и искусство",
+   "история"
+  ],
+  "atmosphere":[
+   "уютная",
+   "шумная"
+  ],
+  "context":[
+   "с детьми",
+   "туристам"
+  ],
+  "budget":"бесплатно",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"высокая",
+  "in_guidebook":false,
+  "indoor_outdoor":"на открытом воздухе",
+  "visit_duration":"до 1 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p012",
+  "name":"Жилой дом на Котельнической набережной",
+  "category":"достопримечательность",
+  "district":"Таганка",
+  "experience":[
+   "архитектура",
+   "природа и прогулки"
+  ],
+  "atmosphere":[
+   "уютная",
+   "спокойная"
+  ],
+  "context":[
+   "свидание",
+   "туристам"
+  ],
+  "budget":"бесплатно",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"высокая",
+  "in_guidebook":false,
+  "indoor_outdoor":"смешанный",
+  "visit_duration":"до 1 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p013",
+  "name":"Исторический музей",
+  "category":"музей",
+  "district":"Кремль и Китай-город",
+  "experience":[
+   "культура и искусство",
+   "история",
+   "архитектура",
+   "религия"
+  ],
+  "atmosphere":[
+   "историческая",
+   "современная"
+  ],
+  "context":[
+   "в одиночку",
+   "туристам"
+  ],
+  "budget":"низкий",
+  "budget_source":"цена",
+  "time_of_day":[
+   "день"
+  ],
+  "time_source":"категория",
+  "popularity":"высокая",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"полдня",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p014",
+  "name":"Московский художественный театр им. А. П. Чехова",
+  "category":"театр",
+  "district":"Тверская",
+  "experience":[
+   "культура и искусство",
+   "история",
+   "развлечения и шоу"
+  ],
+  "atmosphere":[
+   "торжественная",
+   "историческая",
+   "современная"
+  ],
+  "context":[
+   "свидание",
+   "туристам"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"высокая",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p015",
+  "name":"Рабочий и колхозница",
+  "category":"достопримечательность",
+  "district":"Останкино",
+  "experience":[
+   "культура и искусство",
+   "архитектура"
+  ],
+  "atmosphere":[
+   "шумная",
+   "торжественная"
+  ],
+  "context":[
+   "туристам"
+  ],
+  "budget":"бесплатно",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"высокая",
+  "in_guidebook":false,
+  "indoor_outdoor":"на открытом воздухе",
+  "visit_duration":"до 1 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p016",
+  "name":"Ту-104",
+  "category":"достопримечательность",
+  "district":"другой",
+  "experience":[
+   "развлечения и шоу",
+   "религия"
+  ],
+  "atmosphere":[
+   "уютная",
+   "шумная"
+  ],
+  "context":[
+   "в одиночку",
+   "туристам"
+  ],
+  "budget":"бесплатно",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"высокая",
+  "in_guidebook":false,
+  "indoor_outdoor":"на открытом воздухе",
+  "visit_duration":"до 1 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p017",
+  "name":"Дворцово-парковый ансамбль «Царицыно»",
+  "category":"парк",
+  "district":"Царицыно",
+  "experience":[
+   "история",
+   "архитектура",
+   "природа и прогулки"
+  ],
+  "atmosphere":[
+   "торжественная",
+   "историческая"
+  ],
+  "context":[
+   "туристам"
+  ],
+  "budget":"бесплатно",
+  "budget_source":"категория",
+  "time_of_day":[
+   "утро",
+   "день",
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"высокая",
+  "in_guidebook":false,
+  "indoor_outdoor":"на открытом воздухе",
+  "visit_duration":"полдня",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p018",
+  "name":"Царь-пушка",
+  "category":"достопримечательность",
+  "district":"Кремль и Китай-город",
+  "experience":[
+   "культура и искусство",
+   "история",
+   "архитектура",
+   "природа и прогулки"
+  ],
+  "atmosphere":[
+   "торжественная",
+   "историческая"
+  ],
+  "context":[
+   "туристам"
+  ],
+  "budget":"бесплатно",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"высокая",
+  "in_guidebook":true,
+  "indoor_outdoor":"на открытом воздухе",
+  "visit_duration":"до 1 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p019",
+  "name":"Патриаршие пруды",
+  "category":"парк",
+  "district":"Тверская",
+  "experience":[
+   "природа и прогулки",
+   "религия"
+  ],
+  "atmosphere":[
+   "спокойная",
+   "торжественная"
+  ],
+  "context":[
+   "с детьми",
+   "туристам"
+  ],
+  "budget":"бесплатно",
+  "budget_source":"категория",
+  "time_of_day":[
+   "утро",
+   "день",
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"высокая",
+  "in_guidebook":false,
+  "indoor_outdoor":"на открытом воздухе",
+  "visit_duration":"полдня",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p020",
+  "name":"В ознаменование 300-летия российского флота",
+  "category":"достопримечательность",
+  "district":"Замоскворечье",
+  "experience":[
+   "культура и искусство",
+   "история",
+   "природа и прогулки",
+   "религия"
+  ],
+  "atmosphere":[
+   "историческая",
+   "современная"
+  ],
+  "context":[
+   "туристам"
+  ],
+  "budget":"бесплатно",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"высокая",
+  "in_guidebook":true,
+  "indoor_outdoor":"на открытом воздухе",
+  "visit_duration":"до 1 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p021",
+  "name":"Царь-колокол",
+  "category":"достопримечательность",
+  "district":"Кремль и Китай-город",
+  "experience":[
+   "культура и искусство",
+   "история",
+   "архитектура"
+  ],
+  "atmosphere":[
+   "торжественная",
+   "историческая"
+  ],
+  "context":[
+   "туристам"
+  ],
+  "budget":"бесплатно",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"высокая",
+  "in_guidebook":true,
+  "indoor_outdoor":"на открытом воздухе",
+  "visit_duration":"до 1 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":true
+ },
+ {
+  "place_id":"p022",
+  "name":"Современник",
+  "category":"театр",
+  "district":"Чистые пруды и Покровка",
+  "experience":[
+   "культура и искусство",
+   "природа и прогулки",
+   "развлечения и шоу"
+  ],
+  "atmosphere":[
+   "торжественная",
+   "современная"
+  ],
+  "context":[
+   "с детьми",
+   "свидание"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"часы работы",
+  "popularity":"средняя",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p023",
+  "name":"Шуховская башня",
+  "category":"достопримечательность",
+  "district":"Замоскворечье",
+  "experience":[
+   "архитектура"
+  ],
+  "atmosphere":[
+   "шумная",
+   "торжественная"
+  ],
+  "context":[
+   "работа и учёба",
+   "туристам"
+  ],
+  "budget":"бесплатно",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"средняя",
+  "in_guidebook":true,
+  "indoor_outdoor":"на открытом воздухе",
+  "visit_duration":"до 1 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p024",
+  "name":"Театр имени Евгения Вахтангова",
+  "category":"театр",
+  "district":"Арбат",
+  "experience":[
+   "культура и искусство",
+   "развлечения и шоу"
+  ],
+  "atmosphere":[
+   "торжественная",
+   "современная"
+  ],
+  "context":[
+   "свидание",
+   "туристам"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"средняя",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p025",
+  "name":"Собор Михаила Архангела",
+  "category":"храм",
+  "district":"Кремль и Китай-город",
+  "experience":[
+   "история",
+   "архитектура",
+   "религия"
+  ],
+  "atmosphere":[
+   "торжественная",
+   "историческая"
+  ],
+  "context":[
+   "туристам"
+  ],
+  "budget":"бесплатно",
+  "budget_source":"категория",
+  "time_of_day":[
+   "утро",
+   "день"
+  ],
+  "time_source":"категория",
+  "popularity":"средняя",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"до 1 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p026",
+  "name":"МХАТ им. Горького",
+  "category":"театр",
+  "district":"Тверская",
+  "experience":[
+   "культура и искусство",
+   "развлечения и шоу"
+  ],
+  "atmosphere":[
+   "торжественная",
+   "современная"
+  ],
+  "context":[
+   "свидание",
+   "в одиночку"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "утро",
+   "день",
+   "вечер"
+  ],
+  "time_source":"часы работы",
+  "popularity":"средняя",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p027",
+  "name":"Московский зоопарк",
+  "category":"развлечения",
+  "district":"Пресня",
+  "experience":[
+   "культура и искусство",
+   "природа и прогулки",
+   "развлечения и шоу"
+  ],
+  "atmosphere":[
+   "романтичная",
+   "шумная"
+  ],
+  "context":[
+   "с детьми",
+   "туристам"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "утро",
+   "день"
+  ],
+  "time_source":"часы работы",
+  "popularity":"средняя",
+  "in_guidebook":false,
+  "indoor_outdoor":"на открытом воздухе",
+  "visit_duration":"2–3 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":true
+ },
+ {
+  "place_id":"p028",
+  "name":"Театр сатиры",
+  "category":"театр",
+  "district":"Тверская",
+  "experience":[
+   "культура и искусство",
+   "история",
+   "развлечения и шоу"
+  ],
+  "atmosphere":[
+   "торжественная",
+   "историческая"
+  ],
+  "context":[
+   "свидание"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "утро",
+   "день",
+   "вечер"
+  ],
+  "time_source":"часы работы",
+  "popularity":"средняя",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p029",
+  "name":"Музей-заповедник «Коломенское»",
+  "category":"парк",
+  "district":"Коломенское",
+  "experience":[
+   "культура и искусство",
+   "история",
+   "архитектура",
+   "природа и прогулки"
+  ],
+  "atmosphere":[
+   "историческая"
+  ],
+  "context":[
+   "с детьми",
+   "туристам"
+  ],
+  "budget":"бесплатно",
+  "budget_source":"категория",
+  "time_of_day":[
+   "утро",
+   "день",
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"средняя",
+  "in_guidebook":true,
+  "indoor_outdoor":"на открытом воздухе",
+  "visit_duration":"полдня",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p030",
+  "name":"Малый театр",
+  "category":"театр",
+  "district":"Кремль и Китай-город",
+  "experience":[
+   "культура и искусство",
+   "история",
+   "архитектура",
+   "развлечения и шоу"
+  ],
+  "atmosphere":[
+   "торжественная",
+   "историческая",
+   "современная"
+  ],
+  "context":[
+   "свидание",
+   "в одиночку"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"часы работы",
+  "popularity":"средняя",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p031",
+  "name":"Музей-заповедник Кусково",
+  "category":"парк",
+  "district":"Кусково",
+  "experience":[
+   "культура и искусство",
+   "история",
+   "архитектура",
+   "природа и прогулки",
+   "религия"
+  ],
+  "atmosphere":[
+   "торжественная",
+   "историческая"
+  ],
+  "context":[
+   "с детьми",
+   "свидание"
+  ],
+  "budget":"низкий",
+  "budget_source":"теги OSM",
+  "time_of_day":[
+   "утро",
+   "день"
+  ],
+  "time_source":"часы работы",
+  "popularity":"средняя",
+  "in_guidebook":false,
+  "indoor_outdoor":"на открытом воздухе",
+  "visit_duration":"полдня",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p032",
+  "name":"Собор Непорочного зачатия Пресвятой Девы Марии",
+  "category":"храм",
+  "district":"Пресня",
+  "experience":[
+   "культура и искусство",
+   "история",
+   "архитектура",
+   "развлечения и шоу",
+   "религия"
+  ],
+  "atmosphere":[
+   "торжественная",
+   "историческая"
+  ],
+  "context":[
+   "с детьми",
+   "туристам"
+  ],
+  "budget":"бесплатно",
+  "budget_source":"категория",
+  "time_of_day":[
+   "утро",
+   "день",
+   "вечер"
+  ],
+  "time_source":"часы работы",
+  "popularity":"средняя",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"до 1 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p033",
+  "name":"Парк Воробьёвы горы",
+  "category":"парк",
+  "district":"Хамовники",
+  "experience":[
+   "еда",
+   "природа и прогулки"
+  ],
+  "atmosphere":[
+   "романтичная"
+  ],
+  "context":[
+   "свидание",
+   "туристам"
+  ],
+  "budget":"бесплатно",
+  "budget_source":"категория",
+  "time_of_day":[
+   "утро",
+   "день",
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"средняя",
+  "in_guidebook":false,
+  "indoor_outdoor":"на открытом воздухе",
+  "visit_duration":"1–2 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p034",
+  "name":"Церковь Иоанна Лествичника",
+  "category":"храм",
+  "district":"Кремль и Китай-город",
+  "experience":[
+   "история",
+   "архитектура",
+   "религия"
+  ],
+  "atmosphere":[
+   "романтичная",
+   "шумная",
+   "торжественная",
+   "историческая"
+  ],
+  "context":[
+   "свидание",
+   "туристам"
+  ],
+  "budget":"низкий",
+  "budget_source":"цена",
+  "time_of_day":[
+   "утро",
+   "день"
+  ],
+  "time_source":"категория",
+  "popularity":"средняя",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"до 1 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p035",
+  "name":"Театр Российской армии",
+  "category":"театр",
+  "district":"Марьина роща",
+  "experience":[
+   "культура и искусство",
+   "развлечения и шоу"
+  ],
+  "atmosphere":[
+   "торжественная"
+  ],
+  "context":[
+   "свидание"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"средняя",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p036",
+  "name":"Оружейная палата",
+  "category":"музей",
+  "district":"Кремль и Китай-город",
+  "experience":[
+   "культура и искусство",
+   "история",
+   "архитектура",
+   "религия"
+  ],
+  "atmosphere":[
+   "шумная",
+   "торжественная",
+   "историческая",
+   "современная"
+  ],
+  "context":[
+   "в одиночку",
+   "туристам"
+  ],
+  "budget":"средний",
+  "budget_source":"цена",
+  "time_of_day":[
+   "день"
+  ],
+  "time_source":"категория",
+  "popularity":"средняя",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p037",
+  "name":"Грановитая палата",
+  "category":"музей",
+  "district":"Кремль и Китай-город",
+  "experience":[
+   "еда",
+   "культура и искусство",
+   "история",
+   "архитектура"
+  ],
+  "atmosphere":[
+   "торжественная",
+   "историческая"
+  ],
+  "context":[
+   "в одиночку",
+   "туристам"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день"
+  ],
+  "time_source":"категория",
+  "popularity":"средняя",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p038",
+  "name":"Театр им. Вл. Маяковского",
+  "category":"театр",
+  "district":"Тверская",
+  "experience":[
+   "культура и искусство",
+   "развлечения и шоу"
+  ],
+  "atmosphere":[
+   "торжественная",
+   "историческая"
+  ],
+  "context":[
+   "свидание",
+   "туристам"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"часы работы",
+  "popularity":"средняя",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p039",
+  "name":"Московский театр Олега Табакова",
+  "category":"театр",
+  "district":"Чистые пруды и Покровка",
+  "experience":[
+   "культура и искусство",
+   "развлечения и шоу"
+  ],
+  "atmosphere":[
+   "шумная",
+   "торжественная"
+  ],
+  "context":[
+   "с детьми",
+   "свидание"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"часы работы",
+  "popularity":"средняя",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p040",
+  "name":"парк «Зарядье»",
+  "category":"парк",
+  "district":"Кремль и Китай-город",
+  "experience":[
+   "история",
+   "архитектура",
+   "природа и прогулки",
+   "религия"
+  ],
+  "atmosphere":[
+   "торжественная",
+   "историческая",
+   "современная"
+  ],
+  "context":[
+   "свидание",
+   "туристам"
+  ],
+  "budget":"бесплатно",
+  "budget_source":"категория",
+  "time_of_day":[
+   "утро",
+   "день",
+   "вечер",
+   "ночь"
+  ],
+  "time_source":"часы работы",
+  "popularity":"средняя",
+  "in_guidebook":true,
+  "indoor_outdoor":"на открытом воздухе",
+  "visit_duration":"полдня",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p041",
+  "name":"Парк Горького",
+  "category":"парк",
+  "district":"Замоскворечье",
+  "experience":[
+   "культура и искусство",
+   "архитектура",
+   "природа и прогулки"
+  ],
+  "atmosphere":[
+   "шумная",
+   "современная"
+  ],
+  "context":[
+   "с детьми",
+   "туристам"
+  ],
+  "budget":"бесплатно",
+  "budget_source":"категория",
+  "time_of_day":[
+   "утро",
+   "день",
+   "вечер",
+   "ночь"
+  ],
+  "time_source":"часы работы",
+  "popularity":"средняя",
+  "in_guidebook":false,
+  "indoor_outdoor":"на открытом воздухе",
+  "visit_duration":"полдня",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p042",
+  "name":"Московский цирк Никулина",
+  "category":"развлечения",
+  "district":"Тверская",
+  "experience":[
+   "развлечения и шоу"
+  ],
+  "atmosphere":[
+   "шумная",
+   "историческая"
+  ],
+  "context":[
+   "с детьми",
+   "в одиночку"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"средняя",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p043",
+  "name":"Музей памяти",
+  "category":"музей",
+  "district":"Тверская",
+  "experience":[
+   "культура и искусство",
+   "история"
+  ],
+  "atmosphere":[
+   "историческая",
+   "современная"
+  ],
+  "context":[
+   "с детьми",
+   "в одиночку"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день"
+  ],
+  "time_source":"категория",
+  "popularity":"низкая",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"полдня",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":true
+ },
+ {
+  "place_id":"p044",
+  "name":"Нескучный сад",
+  "category":"парк",
+  "district":"Замоскворечье",
+  "experience":[
+   "культура и искусство",
+   "история",
+   "природа и прогулки"
+  ],
+  "atmosphere":[
+   "романтичная",
+   "спокойная",
+   "историческая"
+  ],
+  "context":[
+   "с детьми",
+   "свидание"
+  ],
+  "budget":"бесплатно",
+  "budget_source":"категория",
+  "time_of_day":[
+   "утро",
+   "день",
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"низкая",
+  "in_guidebook":false,
+  "indoor_outdoor":"на открытом воздухе",
+  "visit_duration":"полдня",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p045",
+  "name":"Большой Московский Государственный цирк",
+  "category":"развлечения",
+  "district":"Юго-Запад",
+  "experience":[
+   "архитектура",
+   "развлечения и шоу"
+  ],
+  "atmosphere":[
+   "шумная",
+   "торжественная"
+  ],
+  "context":[
+   "с детьми"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"низкая",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p046",
+  "name":"Парк Победы",
+  "category":"парк",
+  "district":"Поклонная гора и Дорогомилово",
+  "experience":[
+   "еда",
+   "природа и прогулки",
+   "религия"
+  ],
+  "atmosphere":[
+   "романтичная",
+   "торжественная"
+  ],
+  "context":[
+   "с детьми",
+   "туристам"
+  ],
+  "budget":"бесплатно",
+  "budget_source":"категория",
+  "time_of_day":[
+   "утро",
+   "день",
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"низкая",
+  "in_guidebook":true,
+  "indoor_outdoor":"на открытом воздухе",
+  "visit_duration":"полдня",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p047",
+  "name":"Алмазный фонд",
+  "category":"музей",
+  "district":"Кремль и Китай-город",
+  "experience":[
+   "культура и искусство",
+   "история",
+   "архитектура"
+  ],
+  "atmosphere":[
+   "торжественная",
+   "историческая",
+   "современная"
+  ],
+  "context":[
+   "в одиночку",
+   "туристам"
+  ],
+  "budget":"средний",
+  "budget_source":"цена",
+  "time_of_day":[
+   "утро",
+   "день"
+  ],
+  "time_source":"часы работы",
+  "popularity":"низкая",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p048",
+  "name":"Александровский сад",
+  "category":"парк",
+  "district":"Кремль и Китай-город",
+  "experience":[
+   "история",
+   "архитектура",
+   "природа и прогулки"
+  ],
+  "atmosphere":[
+   "торжественная",
+   "историческая"
+  ],
+  "context":[
+   "с детьми",
+   "свидание",
+   "туристам"
+  ],
+  "budget":"бесплатно",
+  "budget_source":"категория",
+  "time_of_day":[
+   "утро",
+   "день",
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"низкая",
+  "in_guidebook":false,
+  "indoor_outdoor":"на открытом воздухе",
+  "visit_duration":"1–2 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p049",
+  "name":"Музей Победы",
+  "category":"музей",
+  "district":"Поклонная гора и Дорогомилово",
+  "experience":[
+   "еда",
+   "культура и искусство",
+   "природа и прогулки"
+  ],
+  "atmosphere":[
+   "торжественная",
+   "современная"
+  ],
+  "context":[
+   "в одиночку",
+   "туристам"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "утро",
+   "день",
+   "вечер"
+  ],
+  "time_source":"часы работы",
+  "popularity":"низкая",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p050",
+  "name":"Музей холодной войны (экспозиционный комплекс Бункер-42)",
+  "category":"музей",
+  "district":"Таганка",
+  "experience":[
+   "культура и искусство",
+   "история"
+  ],
+  "atmosphere":[
+   "историческая",
+   "современная"
+  ],
+  "context":[
+   "с детьми",
+   "в одиночку"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день"
+  ],
+  "time_source":"категория",
+  "popularity":"низкая",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p051",
+  "name":"музей-усадьба \"Останкино\"",
+  "category":"музей",
+  "district":"Останкино",
+  "experience":[
+   "культура и искусство",
+   "история",
+   "архитектура",
+   "природа и прогулки"
+  ],
+  "atmosphere":[
+   "историческая",
+   "современная"
+  ],
+  "context":[
+   "с детьми",
+   "в одиночку",
+   "туристам"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день"
+  ],
+  "time_source":"категория",
+  "popularity":"низкая",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"полдня",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p052",
+  "name":"Музей-панорама «Бородинская битва»",
+  "category":"музей",
+  "district":"Поклонная гора и Дорогомилово",
+  "experience":[
+   "культура и искусство",
+   "история"
+  ],
+  "atmosphere":[
+   "романтичная",
+   "историческая"
+  ],
+  "context":[
+   "свидание",
+   "в одиночку",
+   "туристам"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "утро",
+   "день",
+   "вечер"
+  ],
+  "time_source":"часы работы",
+  "popularity":"низкая",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p053",
+  "name":"Палеонтологический музей имени Ю.А. Орлова РАН",
+  "category":"музей",
+  "district":"Юго-Запад",
+  "experience":[
+   "культура и искусство",
+   "история"
+  ],
+  "atmosphere":[
+   "историческая"
+  ],
+  "context":[
+   "с детьми",
+   "в одиночку"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "утро",
+   "день"
+  ],
+  "time_source":"часы работы",
+  "popularity":"низкая",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"полдня",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p054",
+  "name":"парк Сокольники",
+  "category":"парк",
+  "district":"Восток",
+  "experience":[
+   "история",
+   "природа и прогулки"
+  ],
+  "atmosphere":[
+   "шумная",
+   "историческая"
+  ],
+  "context":[
+   "с детьми",
+   "в одиночку"
+  ],
+  "budget":"бесплатно",
+  "budget_source":"категория",
+  "time_of_day":[
+   "утро",
+   "день",
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"низкая",
+  "in_guidebook":false,
+  "indoor_outdoor":"на открытом воздухе",
+  "visit_duration":"полдня",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p055",
+  "name":"Художественный",
+  "category":"развлечения",
+  "district":"Арбат",
+  "experience":[
+   "культура и искусство",
+   "история",
+   "архитектура",
+   "развлечения и шоу"
+  ],
+  "atmosphere":[
+   "историческая",
+   "современная"
+  ],
+  "context":[
+   "свидание",
+   "туристам"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "утро",
+   "день",
+   "вечер"
+  ],
+  "time_source":"часы работы",
+  "popularity":"низкая",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p056",
+  "name":"Гараж",
+  "category":"галерея",
+  "district":"Замоскворечье",
+  "experience":[
+   "культура и искусство",
+   "природа и прогулки"
+  ],
+  "atmosphere":[
+   "современная"
+  ],
+  "context":[
+   "в одиночку",
+   "туристам"
+  ],
+  "budget":"низкий",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"часы работы",
+  "popularity":"низкая",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"1–2 ч",
+  "has_wifi":true,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":true
+ },
+ {
+  "place_id":"p057",
+  "name":"Мультимедиа Арт Музей",
+  "category":"галерея",
+  "district":"Арбат",
+  "experience":[
+   "культура и искусство"
+  ],
+  "atmosphere":[
+   "современная"
+  ],
+  "context":[
+   "с детьми",
+   "в одиночку"
+  ],
+  "budget":"низкий",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"часы работы",
+  "popularity":"низкая",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"1–2 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":true
+ },
+ {
+  "place_id":"p058",
+  "name":"Большой зал Консерватории",
+  "category":"развлечения",
+  "district":"Тверская",
+  "experience":[
+   "культура и искусство",
+   "развлечения и шоу"
+  ],
+  "atmosphere":[
+   "шумная",
+   "торжественная"
+  ],
+  "context":[
+   "с друзьями",
+   "в одиночку"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"низкая",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p059",
+  "name":"Центральный дом художника",
+  "category":"галерея",
+  "district":"Замоскворечье",
+  "experience":[
+   "культура и искусство"
+  ],
+  "atmosphere":[
+   "современная"
+  ],
+  "context":[
+   "с детьми",
+   "в одиночку"
+  ],
+  "budget":"низкий",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день"
+  ],
+  "time_source":"категория",
+  "popularity":"низкая",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"1–2 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p060",
+  "name":"Концертный зал «Зарядье»",
+  "category":"развлечения",
+  "district":"Кремль и Китай-город",
+  "experience":[
+   "еда",
+   "архитектура",
+   "природа и прогулки",
+   "развлечения и шоу"
+  ],
+  "atmosphere":[
+   "шумная",
+   "современная"
+  ],
+  "context":[
+   "с друзьями",
+   "в одиночку"
+  ],
+  "budget":"низкий",
+  "budget_source":"текст",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"часы работы",
+  "popularity":"низкая",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p061",
+  "name":"Государственный центр современного искусства",
+  "category":"галерея",
+  "district":"Пресня",
+  "experience":[
+   "культура и искусство"
+  ],
+  "atmosphere":[
+   "современная"
+  ],
+  "context":[
+   "в одиночку",
+   "туристам"
+  ],
+  "budget":"низкий",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"часы работы",
+  "popularity":"низкая",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"1–2 ч",
+  "has_wifi":true,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p062",
+  "name":"Галеев - галерея",
+  "category":"галерея",
+  "district":"Тверская",
+  "experience":[
+   "культура и искусство"
+  ],
+  "atmosphere":[
+   "современная"
+  ],
+  "context":[
+   "в одиночку",
+   "туристам"
+  ],
+  "budget":"низкий",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день"
+  ],
+  "time_source":"категория",
+  "popularity":"низкая",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"1–2 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p063",
+  "name":"А3",
+  "category":"галерея",
+  "district":"Арбат",
+  "experience":[
+   "культура и искусство"
+  ],
+  "atmosphere":[
+   "спокойная",
+   "современная"
+  ],
+  "context":[
+   "с детьми",
+   "в одиночку",
+   "туристам"
+  ],
+  "budget":"низкий",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"часы работы",
+  "popularity":"низкая",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"1–2 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p064",
+  "name":"Саяны",
+  "category":"развлечения",
+  "district":"Восток",
+  "experience":[
+   "архитектура",
+   "развлечения и шоу"
+  ],
+  "atmosphere":[
+   "романтичная",
+   "современная"
+  ],
+  "context":[
+   "с друзьями",
+   "свидание"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"низкая",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p065",
+  "name":"Villa Pasta на Пятницкой",
+  "category":"ресторан",
+  "district":"Замоскворечье",
+  "experience":[
+   "еда",
+   "природа и прогулки"
+  ],
+  "atmosphere":[
+   "уютная",
+   "шумная",
+   "спокойная"
+  ],
+  "context":[
+   "работа и учёба"
+  ],
+  "budget":"низкий",
+  "budget_source":"текст",
+  "time_of_day":[
+   "утро",
+   "день",
+   "вечер",
+   "ночь"
+  ],
+  "time_source":"часы работы",
+  "popularity":"неизвестно",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"1–2 ч",
+  "has_wifi":true,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p066",
+  "name":"Эль Асадор",
+  "category":"ресторан",
+  "district":"Замоскворечье",
+  "experience":[
+   "еда"
+  ],
+  "atmosphere":[
+   "уютная",
+   "спокойная"
+  ],
+  "context":[
+   "работа и учёба"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"часы работы",
+  "popularity":"неизвестно",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"1–2 ч",
+  "has_wifi":true,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p067",
+  "name":"Ресторан \"Сунжа\"",
+  "category":"ресторан",
+  "district":"Замоскворечье",
+  "experience":[
+   "еда"
+  ],
+  "atmosphere":[
+   "спокойная"
+  ],
+  "context":[
+   "с друзьями",
+   "работа и учёба"
+  ],
+  "budget":"средний",
+  "budget_source":"текст",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"неизвестно",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"1–2 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p068",
+  "name":"Вареничная № 1",
+  "category":"ресторан",
+  "district":"Кремль и Китай-город",
+  "experience":[
+   "еда"
+  ],
+  "atmosphere":[
+   "уютная",
+   "спокойная"
+  ],
+  "context":[
+   "свидание",
+   "работа и учёба"
+  ],
+  "budget":"низкий",
+  "budget_source":"текст",
+  "time_of_day":[
+   "утро",
+   "день",
+   "вечер"
+  ],
+  "time_source":"часы работы",
+  "popularity":"неизвестно",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"1–2 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":true
+ },
+ {
+  "place_id":"p069",
+  "name":"Кафе «Сорока»",
+  "category":"ресторан",
+  "district":"Кремль и Китай-город",
+  "experience":[
+   "еда",
+   "ночная жизнь"
+  ],
+  "atmosphere":[
+   "уютная",
+   "спокойная"
+  ],
+  "context":[
+   "свидание",
+   "работа и учёба"
+  ],
+  "budget":"низкий",
+  "budget_source":"цена",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"неизвестно",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"1–2 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p070",
+  "name":"Корчма «Тарас Бульба»",
+  "category":"ресторан",
+  "district":"Кремль и Китай-город",
+  "experience":[
+   "еда"
+  ],
+  "atmosphere":[
+   "романтичная",
+   "спокойная"
+  ],
+  "context":[
+   "свидание",
+   "туристам"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "утро",
+   "день",
+   "вечер",
+   "ночь"
+  ],
+  "time_source":"часы работы",
+  "popularity":"неизвестно",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"1–2 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p071",
+  "name":"Ресторан «Высота 5642»",
+  "category":"ресторан",
+  "district":"Кремль и Китай-город",
+  "experience":[
+   "еда"
+  ],
+  "atmosphere":[
+   "уютная",
+   "торжественная"
+  ],
+  "context":[
+   "свидание",
+   "работа и учёба"
+  ],
+  "budget":"средний",
+  "budget_source":"цена",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"часы работы",
+  "popularity":"неизвестно",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"1–2 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p072",
+  "name":"Ресторан Mandarin combustible",
+  "category":"ресторан",
+  "district":"Кремль и Китай-город",
+  "experience":[
+   "еда",
+   "развлечения и шоу",
+   "ночная жизнь"
+  ],
+  "atmosphere":[
+   "уютная",
+   "романтичная",
+   "шумная"
+  ],
+  "context":[
+   "с друзьями",
+   "свидание"
+  ],
+  "budget":"средний",
+  "budget_source":"цена",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"неизвестно",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"1–2 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p073",
+  "name":"Ресторан «Годуновъ»",
+  "category":"ресторан",
+  "district":"Кремль и Китай-город",
+  "experience":[
+   "еда",
+   "история"
+  ],
+  "atmosphere":[
+   "историческая",
+   "современная"
+  ],
+  "context":[
+   "свидание",
+   "туристам"
+  ],
+  "budget":"средний",
+  "budget_source":"цена",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"неизвестно",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"1–2 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p074",
+  "name":"Тапчан",
+  "category":"ресторан",
+  "district":"Таганка",
+  "experience":[
+   "еда"
+  ],
+  "atmosphere":[
+   "уютная",
+   "спокойная"
+  ],
+  "context":[
+   "с друзьями",
+   "свидание"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"неизвестно",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"1–2 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p075",
+  "name":"Ресторан «Баба Марта»",
+  "category":"ресторан",
+  "district":"Арбат",
+  "experience":[
+   "еда"
+  ],
+  "atmosphere":[
+   "романтичная",
+   "спокойная"
+  ],
+  "context":[
+   "с детьми",
+   "свидание"
+  ],
+  "budget":"средний",
+  "budget_source":"цена",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"неизвестно",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"1–2 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p076",
+  "name":"Ресторан «Босфор»",
+  "category":"ресторан",
+  "district":"Арбат",
+  "experience":[
+   "еда"
+  ],
+  "atmosphere":[
+   "романтичная",
+   "спокойная"
+  ],
+  "context":[
+   "свидание",
+   "работа и учёба"
+  ],
+  "budget":"средний",
+  "budget_source":"цена",
+  "time_of_day":[
+   "утро",
+   "день",
+   "вечер",
+   "ночь"
+  ],
+  "time_source":"часы работы",
+  "popularity":"неизвестно",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"1–2 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p077",
+  "name":"Кафе «Шоколадница»",
+  "category":"кафе",
+  "district":"Замоскворечье",
+  "experience":[
+   "еда"
+  ],
+  "atmosphere":[
+   "спокойная",
+   "историческая"
+  ],
+  "context":[
+   "свидание",
+   "работа и учёба"
+  ],
+  "budget":"низкий",
+  "budget_source":"категория",
+  "time_of_day":[
+   "утро",
+   "день",
+   "вечер",
+   "ночь"
+  ],
+  "time_source":"часы работы",
+  "popularity":"неизвестно",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"1–2 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p078",
+  "name":"Кафе «Монастырская выпечка»",
+  "category":"кафе",
+  "district":"Кремль и Китай-город",
+  "experience":[
+   "еда",
+   "религия"
+  ],
+  "atmosphere":[
+   "спокойная"
+  ],
+  "context":[
+   "свидание",
+   "в одиночку"
+  ],
+  "budget":"низкий",
+  "budget_source":"цена",
+  "time_of_day":[
+   "утро",
+   "день"
+  ],
+  "time_source":"категория",
+  "popularity":"неизвестно",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"1–2 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p079",
+  "name":"Столовая № 57",
+  "category":"кафе",
+  "district":"Кремль и Китай-город",
+  "experience":[
+   "еда",
+   "ночная жизнь"
+  ],
+  "atmosphere":[
+   "уютная",
+   "спокойная"
+  ],
+  "context":[
+   "работа и учёба",
+   "туристам"
+  ],
+  "budget":"низкий",
+  "budget_source":"цена",
+  "time_of_day":[
+   "утро",
+   "день"
+  ],
+  "time_source":"категория",
+  "popularity":"неизвестно",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"1–2 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p080",
+  "name":"Спецбуфет № 1",
+  "category":"кафе",
+  "district":"Кремль и Китай-город",
+  "experience":[
+   "еда"
+  ],
+  "atmosphere":[
+   "уютная",
+   "спокойная"
+  ],
+  "context":[
+   "в одиночку",
+   "туристам"
+  ],
+  "budget":"низкий",
+  "budget_source":"цена",
+  "time_of_day":[
+   "утро",
+   "день",
+   "вечер",
+   "ночь"
+  ],
+  "time_source":"часы работы",
+  "popularity":"неизвестно",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"1–2 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p081",
+  "name":"Krispy Kreme Doughnuts",
+  "category":"кафе",
+  "district":"Кремль и Китай-город",
+  "experience":[
+   "еда"
+  ],
+  "atmosphere":[
+   "уютная"
+  ],
+  "context":[
+   "работа и учёба",
+   "в одиночку",
+   "туристам"
+  ],
+  "budget":"низкий",
+  "budget_source":"цена",
+  "time_of_day":[
+   "утро",
+   "день"
+  ],
+  "time_source":"категория",
+  "popularity":"неизвестно",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"1–2 ч",
+  "has_wifi":true,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p082",
+  "name":"Чебуречная «Советские времена»",
+  "category":"кафе",
+  "district":"Басманный район",
+  "experience":[
+   "еда",
+   "история",
+   "ночная жизнь"
+  ],
+  "atmosphere":[
+   "уютная",
+   "историческая"
+  ],
+  "context":[
+   "с друзьями",
+   "работа и учёба"
+  ],
+  "budget":"низкий",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"часы работы",
+  "popularity":"неизвестно",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"1–2 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p083",
+  "name":"Everest coffee",
+  "category":"кафе",
+  "district":"Северо-Запад",
+  "experience":[
+   "еда"
+  ],
+  "atmosphere":[
+   "уютная",
+   "спокойная"
+  ],
+  "context":[
+   "работа и учёба"
+  ],
+  "budget":"низкий",
+  "budget_source":"категория",
+  "time_of_day":[
+   "утро",
+   "день",
+   "вечер"
+  ],
+  "time_source":"часы работы",
+  "popularity":"неизвестно",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"1–2 ч",
+  "has_wifi":true,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p084",
+  "name":"Boring Coffee",
+  "category":"кафе",
+  "district":"Поклонная гора и Дорогомилово",
+  "experience":[
+   "еда"
+  ],
+  "atmosphere":[
+   "уютная",
+   "спокойная"
+  ],
+  "context":[
+   "работа и учёба"
+  ],
+  "budget":"низкий",
+  "budget_source":"категория",
+  "time_of_day":[
+   "утро",
+   "день"
+  ],
+  "time_source":"часы работы",
+  "popularity":"неизвестно",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"1–2 ч",
+  "has_wifi":true,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":true
+ },
+ {
+  "place_id":"p085",
+  "name":"Наф-Наф",
+  "category":"кафе",
+  "district":"другой",
+  "experience":[
+   "еда"
+  ],
+  "atmosphere":[
+   "уютная",
+   "спокойная"
+  ],
+  "context":[
+   "работа и учёба"
+  ],
+  "budget":"низкий",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"часы работы",
+  "popularity":"неизвестно",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"1–2 ч",
+  "has_wifi":true,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p086",
+  "name":"Pho Ngon",
+  "category":"кафе",
+  "district":"Поклонная гора и Дорогомилово",
+  "experience":[
+   "еда"
+  ],
+  "atmosphere":[
+   "уютная",
+   "спокойная"
+  ],
+  "context":[
+   "работа и учёба"
+  ],
+  "budget":"низкий",
+  "budget_source":"категория",
+  "time_of_day":[
+   "утро",
+   "день",
+   "вечер"
+  ],
+  "time_source":"часы работы",
+  "popularity":"неизвестно",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"1–2 ч",
+  "has_wifi":true,
+  "has_terrace":false,
+  "veg_friendly":true,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p087",
+  "name":"Пушкарёв",
+  "category":"кафе",
+  "district":"Чистые пруды и Покровка",
+  "experience":[
+   "еда"
+  ],
+  "atmosphere":[
+   "уютная",
+   "спокойная"
+  ],
+  "context":[
+   "работа и учёба"
+  ],
+  "budget":"низкий",
+  "budget_source":"категория",
+  "time_of_day":[
+   "утро",
+   "день",
+   "вечер"
+  ],
+  "time_source":"часы работы",
+  "popularity":"неизвестно",
+  "in_guidebook":false,
+  "indoor_outdoor":"смешанный",
+  "visit_duration":"1–2 ч",
+  "has_wifi":true,
+  "has_terrace":true,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p088",
+  "name":"Coffeepie",
+  "category":"кафе",
+  "district":"Лефортово",
+  "experience":[
+   "еда"
+  ],
+  "atmosphere":[
+   "уютная",
+   "спокойная"
+  ],
+  "context":[
+   "с друзьями",
+   "работа и учёба"
+  ],
+  "budget":"низкий",
+  "budget_source":"категория",
+  "time_of_day":[
+   "утро",
+   "день",
+   "вечер"
+  ],
+  "time_source":"часы работы",
+  "popularity":"неизвестно",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"1–2 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p089",
+  "name":"\"Квартира 44\" на Малой Якиманке",
+  "category":"бар",
+  "district":"Замоскворечье",
+  "experience":[
+   "еда",
+   "развлечения и шоу",
+   "ночная жизнь"
+  ],
+  "atmosphere":[
+   "шумная",
+   "спокойная"
+  ],
+  "context":[
+   "с друзьями",
+   "работа и учёба"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "вечер",
+   "ночь"
+  ],
+  "time_source":"категория",
+  "popularity":"неизвестно",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p090",
+  "name":"Romanov bar",
+  "category":"бар",
+  "district":"Кремль и Китай-город",
+  "experience":[
+   "еда",
+   "ночная жизнь"
+  ],
+  "atmosphere":[
+   "романтичная",
+   "шумная"
+  ],
+  "context":[
+   "с друзьями",
+   "свидание"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "вечер",
+   "ночь"
+  ],
+  "time_source":"категория",
+  "popularity":"неизвестно",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p091",
+  "name":"Craft Republic",
+  "category":"бар",
+  "district":"Тверская",
+  "experience":[
+   "еда",
+   "ночная жизнь"
+  ],
+  "atmosphere":[
+   "уютная",
+   "шумная"
+  ],
+  "context":[
+   "с друзьями",
+   "работа и учёба"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер",
+   "ночь"
+  ],
+  "time_source":"часы работы",
+  "popularity":"неизвестно",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":true,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p092",
+  "name":"Colin McDaniel",
+  "category":"бар",
+  "district":"Замоскворечье",
+  "experience":[
+   "еда",
+   "ночная жизнь"
+  ],
+  "atmosphere":[
+   "шумная",
+   "спокойная"
+  ],
+  "context":[
+   "с друзьями",
+   "работа и учёба"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер",
+   "ночь"
+  ],
+  "time_source":"часы работы",
+  "popularity":"неизвестно",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":true,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":true
+ },
+ {
+  "place_id":"p093",
+  "name":"1980",
+  "category":"бар",
+  "district":"другой",
+  "experience":[
+   "еда",
+   "ночная жизнь"
+  ],
+  "atmosphere":[
+   "шумная",
+   "спокойная"
+  ],
+  "context":[
+   "с друзьями",
+   "работа и учёба"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер",
+   "ночь"
+  ],
+  "time_source":"часы работы",
+  "popularity":"неизвестно",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":true,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p094",
+  "name":"Sporco",
+  "category":"бар",
+  "district":"Чистые пруды и Покровка",
+  "experience":[
+   "еда",
+   "ночная жизнь"
+  ],
+  "atmosphere":[
+   "шумная",
+   "спокойная"
+  ],
+  "context":[
+   "с друзьями",
+   "работа и учёба"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер",
+   "ночь"
+  ],
+  "time_source":"часы работы",
+  "popularity":"неизвестно",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":true,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p095",
+  "name":"Symposy",
+  "category":"бар",
+  "district":"Восток",
+  "experience":[
+   "еда",
+   "ночная жизнь"
+  ],
+  "atmosphere":[
+   "шумная",
+   "спокойная"
+  ],
+  "context":[
+   "с друзьями",
+   "работа и учёба"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"часы работы",
+  "popularity":"неизвестно",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":true
+ },
+ {
+  "place_id":"p096",
+  "name":"Крафт будка",
+  "category":"бар",
+  "district":"Марьина роща",
+  "experience":[
+   "еда",
+   "ночная жизнь"
+  ],
+  "atmosphere":[
+   "уютная",
+   "шумная"
+  ],
+  "context":[
+   "с друзьями",
+   "работа и учёба"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"часы работы",
+  "popularity":"неизвестно",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":true,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p097",
+  "name":"Bad.Bro.Bar",
+  "category":"бар",
+  "district":"Марьина роща",
+  "experience":[
+   "еда",
+   "ночная жизнь"
+  ],
+  "atmosphere":[
+   "шумная",
+   "спокойная"
+  ],
+  "context":[
+   "с друзьями"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер",
+   "ночь"
+  ],
+  "time_source":"часы работы",
+  "popularity":"неизвестно",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p098",
+  "name":"Жигули",
+  "category":"бар",
+  "district":"Арбат",
+  "experience":[
+   "еда",
+   "ночная жизнь"
+  ],
+  "atmosphere":[
+   "шумная",
+   "спокойная"
+  ],
+  "context":[
+   "с друзьями",
+   "работа и учёба"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер",
+   "ночь"
+  ],
+  "time_source":"часы работы",
+  "popularity":"неизвестно",
+  "in_guidebook":false,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":true,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ },
+ {
+  "place_id":"p099",
+  "name":"Кожевнические бани",
+  "category":"развлечения",
+  "district":"Замоскворечье",
+  "experience":[
+   "культура и искусство",
+   "архитектура",
+   "развлечения и шоу"
+  ],
+  "atmosphere":[
+   "романтичная",
+   "историческая"
+  ],
+  "context":[
+   "с друзьями",
+   "в одиночку"
+  ],
+  "budget":"средний",
+  "budget_source":"категория",
+  "time_of_day":[
+   "день",
+   "вечер"
+  ],
+  "time_source":"категория",
+  "popularity":"неизвестно",
+  "in_guidebook":true,
+  "indoor_outdoor":"в помещении",
+  "visit_duration":"2–3 ч",
+  "has_wifi":false,
+  "has_terrace":false,
+  "veg_friendly":false,
+  "wheelchair":false
+ }
+]
